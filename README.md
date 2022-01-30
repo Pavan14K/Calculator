@@ -9,3 +9,9 @@ Features:
     c) Multiplication
     d) Division
     
+Example:
+Enter the Operator '+','-','*','/' : 
++
+Enter num1: 2
+Enter num2: 6
+The result is: 8.0
